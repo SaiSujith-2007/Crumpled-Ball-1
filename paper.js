@@ -1,7 +1,6 @@
 class paper
 {
     constructor(x,y,radius){
-    this.image = loadImage("Sprites/paper.png");
     var options={
         isStatic:false,
         restitution:0.3,
